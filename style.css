@@ -1,0 +1,17 @@
+#container{
+    margin:0px;
+    padding:0px;
+    border: 1px solid black;
+}
+#main-content{
+    border: 1px solid black;
+    min-height: 600px;
+}
+#header-content{
+    border: 1px solid black;
+    min-height: 200px;
+}
+#footer-elemant{
+    border: 1px solid black;
+    min-height: 200px;
+}
